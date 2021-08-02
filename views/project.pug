@@ -34,7 +34,15 @@ block content
     .project-img-box.box
 
       //- Replace the URLs in the src attributes below with interpolated template literals to dynamically add your project images, and add descriptions to the alt attributes
-      img.project-img(src=`${project.image_urls[1]}`, alt=`${project.project_name} Screenshot`)
+      if(project.project_name === 'API Based Employee Staff Directory')
+        img.project-img(src=`${project.image_urls[1]}`, alt=`${project.project_name} Screenshot`)
+        img.project-img(src=`${project.image_urls[2]}`, alt=`${project.project_name} Screenshot`)
+      else if (project.project_name === 'Game Show/Hangman App')
+        img.project-img(src=`${project.image_urls[1]}`, alt=`${project.project_name} Screenshot`)
+        img.project-img(src=`${project.image_urls[2]}`, alt=`${project.project_name} Screenshot`)
+        img.project-img(src=`${project.image_urls[3]}`, alt=`${project.project_name} Screenshot`)
+      else 
+        img.project-img(src=`${project.image_urls[1]}`, alt=`${project.project_name} Screenshot`)
 
 
     nav.nav

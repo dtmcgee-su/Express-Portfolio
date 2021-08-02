@@ -63,13 +63,16 @@
             "github_link": "https://github.com/dtmcgee-su/OOP-Game-Show-App",
             "image_urls": [
                 "/static/images/project4_square.jpg",
-                "/static/images/project4_wide.jpg"
+                "/static/images/project4_wide.jpg",
+                "/static/images/project4_wide2.png",
+                "/static/images/project4_wide3.png"
+
             ]
         },
         {
             "id": 4,
             "project_name": "API Based Employee Staff Directory",
-            "description": "Use the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory ",
+            "description": "Use the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees” and build a prototype for a startup employee directory ",
             "technologies": [
                 "Git",
                 "AJAX",
@@ -83,7 +86,9 @@
             "github_link": "https://github.com/dtmcgee-su/Public-API-Project",
             "image_urls": [
                 "/static/images/project5_square.jpg",
-                "/static/images/project5_wide.jpg"
+                "/static/images/project5_wide.jpg",
+                "/static/images/project5_wide2.png"
+
             ]
         }
     ]
