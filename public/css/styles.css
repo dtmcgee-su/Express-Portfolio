@@ -101,6 +101,9 @@ a {
   font-size: 13px;
 }
 
+.centered_text {
+  text-align: center;
+}
 
 /*
   Sidebar and mobile header
