@@ -1,0 +1,23 @@
+{
+  "name": "express-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio showing off my recent projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtmcgee-su/Express-Portfolio.git"
+  },
+  "author": "Dylan McGee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtmcgee-su/Express-Portfolio/issues"
+  },
+  "homepage": "https://github.com/dtmcgee-su/Express-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
