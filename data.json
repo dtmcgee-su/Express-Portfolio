@@ -1,0 +1,90 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "App that displays random famous quotes each time a button is clicked.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://dtmcgee-su.github.io/random-quote-generator/",
+            "github_link": "https://dtmcgee-su.github.io/random-quote-generator/",
+            "image_urls": [
+                "./images/project1_square",
+                "./images/project1_wide"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Paginating Student Lists",
+            "description": "Lists a random group of 32 students with a maximum of 9 per page. User can select any of the buttons to display a new page of students. Refreshing will randomize the student list. ",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://dtmcgee-su.github.io/data-pagination-and-filtering/",
+            "github_link": "https://github.com/dtmcgee-su/data-pagination-and-filtering",
+            "image_urls": [
+                "./images/project2_square",
+                "./images/project2_wide"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Custom form built to change options based on user input. Form will not submit if all required fields are not filled out properly. ",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "User Accessability"
+            ],
+            "live_link": "https://dtmcgee-su.github.io/Interactive-Form/",
+            "github_link": "https://github.com/dtmcgee-su/Interactive-Form",
+            "image_urls": [
+                "./images/project3_square",
+                "./images/project3_wide"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Game Show/Hangman App",
+            "description": " A random phrase is selected and the user has 5 lives to correctly guess the whole phrase!",
+            "technologies": [
+                "Object Oriented Programming",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://dtmcgee-su.github.io/OOP-Game-Show-App/",
+            "github_link": "https://github.com/dtmcgee-su/OOP-Game-Show-App",
+            "image_urls": [
+                "./images/project4_square",
+                "./images/project4_wide"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "API Based Employee Staff Directory",
+            "description": "Use the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory ",
+            "technologies": [
+                "Git",
+                "AJAX",
+                "JSON",
+                "Object Oriented Programming",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://dtmcgee-su.github.io/Public-API-Project/",
+            "github_link": "https://github.com/dtmcgee-su/Public-API-Project",
+            "image_urls": [
+                "./images/project5_square",
+                "./images/project5_wide"
+            ]
+        }
+    ]
+}
