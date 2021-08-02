@@ -12,8 +12,8 @@
             "live_link": "https://dtmcgee-su.github.io/random-quote-generator/",
             "github_link": "https://dtmcgee-su.github.io/random-quote-generator/",
             "image_urls": [
-                "./images/project1_square",
-                "./images/project1_wide"
+                "/static/images/project1_square.jpg",
+                "/static/images/project1_wide"
             ]
         },
         {
@@ -28,8 +28,8 @@
             "live_link": "https://dtmcgee-su.github.io/data-pagination-and-filtering/",
             "github_link": "https://github.com/dtmcgee-su/data-pagination-and-filtering",
             "image_urls": [
-                "./images/project2_square",
-                "./images/project2_wide"
+                "/static/images/project2_square.jpg",
+                "/static/images/project2_wide.jpg"
             ]
         },
         {
@@ -45,8 +45,8 @@
             "live_link": "https://dtmcgee-su.github.io/Interactive-Form/",
             "github_link": "https://github.com/dtmcgee-su/Interactive-Form",
             "image_urls": [
-                "./images/project3_square",
-                "./images/project3_wide"
+                "/static/images/project3_square.jpg",
+                "/static/images/project3_wide.jpg"
             ]
         },
         {
@@ -62,8 +62,8 @@
             "live_link": "https://dtmcgee-su.github.io/OOP-Game-Show-App/",
             "github_link": "https://github.com/dtmcgee-su/OOP-Game-Show-App",
             "image_urls": [
-                "./images/project4_square",
-                "./images/project4_wide"
+                "/static/images/project4_square.jpg",
+                "/static/images/project4_wide.jpg"
             ]
         },
         {
@@ -82,8 +82,8 @@
             "live_link": "https://dtmcgee-su.github.io/Public-API-Project/",
             "github_link": "https://github.com/dtmcgee-su/Public-API-Project",
             "image_urls": [
-                "./images/project5_square",
-                "./images/project5_wide"
+                "/static/images/project5_square.jpg",
+                "/static/images/project5_wide.jpg"
             ]
         }
     ]
