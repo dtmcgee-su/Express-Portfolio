@@ -1,6 +1,5 @@
 const express = require('express');
 const{ projects }  = require('./data.json');
-const port = process.env.PORT || 3000;
 
 const app = express();
 app.use(express.json());
@@ -50,6 +49,11 @@ app.use((req, res, next) => {
 //     console.log(err.status, err.message);
 // });
 
-app.listen(3000, () => {
-    console.log('You are live using port 3000!');
-});
+// app.listen(3000, () => {
+//     console.log('You are live using port 3000!');
+// });
+
+// https://stackoverflow.com/questions/14322989/first-heroku-deploy-failed-error-code-h10
+app.listen(process.env.PORT || 3000, function(){
+    console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+  });
