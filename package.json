@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/dtmcgee-su/Express-Portfolio.git"
   },
-  "engines": {
-    "node": "14.16.1"
-  },
   "author": "Dylan McGee",
   "license": "ISC",
   "bugs": {

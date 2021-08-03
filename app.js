@@ -1,5 +1,6 @@
 const express = require('express');
 const{ projects }  = require('./data.json');
+const port = process.env.PORT || 3000;
 
 const app = express();
 app.use(express.json());
@@ -49,6 +50,6 @@ app.use((req, res, next) => {
 //     console.log(err.status, err.message);
 // });
 
-app.listen(3000, () => {
+app.listen(port, () => {
     console.log('You are live using port 3000!');
 });
