@@ -50,6 +50,6 @@ app.use((req, res, next) => {
 //     console.log(err.status, err.message);
 // });
 
-app.listen(port, () => {
+app.listen(3000, () => {
     console.log('You are live using port 3000!');
 });
