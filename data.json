@@ -12,8 +12,8 @@
             "live_link": "https://dtmcgee-su.github.io/random-quote-generator/",
             "github_link": "https://github.com/dtmcgee-su/random-quote-generator",
             "image_urls": [
-                "/static/images/project1_square.jpg",
-                "/static/images/project1_wide.jpg"
+                "/static/images/project1_square.JPG",
+                "/static/images/project1_wide.JPG"
             ]
         },
         {
@@ -28,8 +28,8 @@
             "live_link": "https://dtmcgee-su.github.io/data-pagination-and-filtering/",
             "github_link": "https://github.com/dtmcgee-su/data-pagination-and-filtering",
             "image_urls": [
-                "/static/images/project2_square.jpg",
-                "/static/images/project2_wide.jpg"
+                "/static/images/project2_square.JPG",
+                "/static/images/project2_wide.JPG"
             ]
         },
         {
@@ -45,8 +45,8 @@
             "live_link": "https://dtmcgee-su.github.io/Interactive-Form/",
             "github_link": "https://github.com/dtmcgee-su/Interactive-Form",
             "image_urls": [
-                "/static/images/project3_square.jpg",
-                "/static/images/project3_wide.jpg"
+                "/static/images/project3_square.JPG",
+                "/static/images/project3_wide.JPG"
             ]
         },
         {
@@ -62,10 +62,10 @@
             "live_link": "https://dtmcgee-su.github.io/OOP-Game-Show-App/",
             "github_link": "https://github.com/dtmcgee-su/OOP-Game-Show-App",
             "image_urls": [
-                "/static/images/project4_square.jpg",
-                "/static/images/project4_wide.jpg",
-                "/static/images/project4_wide2.png",
-                "/static/images/project4_wide3.png"
+                "/static/images/project4_square.JPG",
+                "/static/images/project4_wide.JPG",
+                "/static/images/project4_wide2.PNG",
+                "/static/images/project4_wide3.PNG"
 
             ]
         },
@@ -85,9 +85,9 @@
             "live_link": "https://dtmcgee-su.github.io/Public-API-Project/",
             "github_link": "https://github.com/dtmcgee-su/Public-API-Project",
             "image_urls": [
-                "/static/images/project5_square.jpg",
-                "/static/images/project5_wide.jpg",
-                "/static/images/project5_wide2.png"
+                "/static/images/project5_square.JPG",
+                "/static/images/project5_wide.JPG",
+                "/static/images/project5_wide2.PNG"
 
             ]
         }
