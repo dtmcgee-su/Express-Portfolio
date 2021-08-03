@@ -1,35 +1,45 @@
 {
-    "projects": [
+    "projects": [    
         {
             "id": 0,
-            "project_name": "Random Quote Generator",
-            "description": "App that displays random famous quotes each time a button is clicked.",
+            "project_name": "API Based Employee Staff Directory",
+            "description": "Use the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees” and build a prototype for a startup employee directory ",
             "technologies": [
+                "Git",
+                "AJAX",
+                "JSON",
+                "Object Oriented Programming",
                 "HTML",
                 "CSS",
                 "JavaScript"
             ],
-            "live_link": "https://dtmcgee-su.github.io/random-quote-generator/",
-            "github_link": "https://github.com/dtmcgee-su/random-quote-generator",
+            "live_link": "https://dtmcgee-su.github.io/Public-API-Project/",
+            "github_link": "https://github.com/dtmcgee-su/Public-API-Project",
             "image_urls": [
-                "/static/images/project1_square.JPG",
-                "/static/images/project1_wide.JPG"
+                "/static/images/project5_square.JPG",
+                "/static/images/project5_wide.JPG",
+                "/static/images/project5_wide2.PNG"
+
             ]
         },
         {
             "id": 1,
-            "project_name": "Paginating Student Lists",
-            "description": "Lists a random group of 32 students with a maximum of 9 per page. User can select any of the buttons to display a new page of students. Refreshing will randomize the student list. ",
+            "project_name": "Game Show/Hangman App",
+            "description": " A random phrase is selected and the user has 5 lives to correctly guess the whole phrase!",
             "technologies": [
+                "Object Oriented Programming",
                 "HTML",
                 "CSS",
                 "JavaScript"
             ],
-            "live_link": "https://dtmcgee-su.github.io/data-pagination-and-filtering/",
-            "github_link": "https://github.com/dtmcgee-su/data-pagination-and-filtering",
+            "live_link": "https://dtmcgee-su.github.io/OOP-Game-Show-App/",
+            "github_link": "https://github.com/dtmcgee-su/OOP-Game-Show-App",
             "image_urls": [
-                "/static/images/project2_square.JPG",
-                "/static/images/project2_wide.JPG"
+                "/static/images/project4_square.JPG",
+                "/static/images/project4_wide.JPG",
+                "/static/images/project4_wide2.PNG",
+                "/static/images/project4_wide3.PNG"
+
             ]
         },
         {
@@ -51,45 +61,36 @@
         },
         {
             "id": 3,
-            "project_name": "Game Show/Hangman App",
-            "description": " A random phrase is selected and the user has 5 lives to correctly guess the whole phrase!",
+            "project_name": "Paginating Student Lists",
+            "description": "Lists a random group of 32 students with a maximum of 9 per page. User can select any of the buttons to display a new page of students. Refreshing will randomize the student list. ",
             "technologies": [
-                "Object Oriented Programming",
                 "HTML",
                 "CSS",
                 "JavaScript"
             ],
-            "live_link": "https://dtmcgee-su.github.io/OOP-Game-Show-App/",
-            "github_link": "https://github.com/dtmcgee-su/OOP-Game-Show-App",
+            "live_link": "https://dtmcgee-su.github.io/data-pagination-and-filtering/",
+            "github_link": "https://github.com/dtmcgee-su/data-pagination-and-filtering",
             "image_urls": [
-                "/static/images/project4_square.JPG",
-                "/static/images/project4_wide.JPG",
-                "/static/images/project4_wide2.PNG",
-                "/static/images/project4_wide3.PNG"
-
+                "/static/images/project2_square.JPG",
+                "/static/images/project2_wide.JPG"
             ]
         },
         {
             "id": 4,
-            "project_name": "API Based Employee Staff Directory",
-            "description": "Use the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees” and build a prototype for a startup employee directory ",
+            "project_name": "Random Quote Generator",
+            "description": "App that displays random famous quotes each time a button is clicked.",
             "technologies": [
-                "Git",
-                "AJAX",
-                "JSON",
-                "Object Oriented Programming",
                 "HTML",
                 "CSS",
                 "JavaScript"
             ],
-            "live_link": "https://dtmcgee-su.github.io/Public-API-Project/",
-            "github_link": "https://github.com/dtmcgee-su/Public-API-Project",
+            "live_link": "https://dtmcgee-su.github.io/random-quote-generator/",
+            "github_link": "https://github.com/dtmcgee-su/random-quote-generator",
             "image_urls": [
-                "/static/images/project5_square.JPG",
-                "/static/images/project5_wide.JPG",
-                "/static/images/project5_wide2.PNG"
-
+                "/static/images/project1_square.JPG",
+                "/static/images/project1_wide.JPG"
             ]
         }
+    
     ]
 }
