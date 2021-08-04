@@ -34,20 +34,20 @@ app.use((req, res, next) => {
     next(err);
 });
 
-// app.use((err, req, res, next) => {
-//     if (err.status === 404){
-//         res.locals.err = err;
-//         res.status(err.status);
-//         res.render('error');
-//     } else {
-//         // err.status = 500;
-//         err.message = 'Error: server issue';
-//         res.status = err.status;
-//         res.render('error');
-//     }
+app.use((err, req, res, next) => {
+    if (err.status === 404){
+        res.locals.err = err;
+        res.status(err.status);
+        res.render('error');
+    } else {
+        // err.status = 500;
+        err.message = 'Error: server issue';
+        res.status = err.status;
+        res.render('error');
+    }
  
-//     console.log(err.status, err.message);
-// });
+    console.log(err.status, err.message);
+});
 
 // app.listen(3000, () => {
 //     console.log('You are live using port 3000!');
