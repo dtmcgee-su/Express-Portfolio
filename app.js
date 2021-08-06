@@ -30,12 +30,15 @@ app.get('/projects/:id', (req, res, next) => {
 //Error Handling
 app.use((req, res, next) => {
     const err = new Error('Sorry! This page does not exist!');
+    // console.log(err.message);
     err.status = 404;
     next(err);
 });
 
 app.use((err, req, res, next) => {
     if (err.status === 404){
+        err.message = 'Error: File is not found!';
+        // console.log(err.message)
         res.locals.err = err;
         res.status(err.status);
         res.render('error');

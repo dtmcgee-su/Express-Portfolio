@@ -24,6 +24,26 @@
         },
         {
             "id": 1,
+            "project_name": "React Scoreboard App",
+            "description": "A scoreboard app which controls numerous aspects to meet any games needs: Remove or add players. Calculate total amount of users currently in game. Control each players score. Calculate total score. Display which player has the highest score with a crown icon. Utilize a timer which can be started, stopped and reset.",
+            "technologies": [
+                "React",
+                "Git",
+                "JSX",
+                "JSON",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://dylan-mcgee-scoreboard.herokuapp.com/",
+            "github_link": "https://github.com/dtmcgee-su/scoreboard-app",
+            "image_urls": [
+                "/static/images/project6_square.PNG",
+                "/static/images/project6_wide.PNG"
+            ]
+        },
+        {
+            "id": 2,
             "project_name": "Game Show/Hangman App",
             "description": " A random phrase is selected and the user has 5 lives to correctly guess the whole phrase!",
             "technologies": [
@@ -43,7 +63,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": 3,
             "project_name": "Interactive Form",
             "description": "Custom form built to change options based on user input. Form will not submit if all required fields are not filled out properly. ",
             "technologies": [
@@ -60,7 +80,7 @@
             ]
         },
         {
-            "id": 3,
+            "id": 4,
             "project_name": "Paginating Student Lists",
             "description": "Lists a random group of 32 students with a maximum of 9 per page. User can select any of the buttons to display a new page of students. Refreshing will randomize the student list. ",
             "technologies": [
@@ -76,7 +96,7 @@
             ]
         },
         {
-            "id": 4,
+            "id": 5,
             "project_name": "Random Quote Generator",
             "description": "App that displays random famous quotes each time a button is clicked.",
             "technologies": [
